@@ -17,3 +17,6 @@ These all codes are come from our lecturer that you can get [here](https://githu
     - This [itclab.py](https://github.com/humammaulana/itclab_graph_analysis/blob/main/itclab.py) module should be prepared.
 3. **Python Notebook**
     - This [iTCLab-PID-01.ipynb](https://github.com/humammaulana/itclab_graph_analysis/blob/main/iTCLab-PID-01.ipynb) Python notebook program have been modified.
+
+### Report
+You can read the [LAPORAN FP MIKRO KEL 5.pdf](https://github.com/humammaulana/itclab_graph_analysis/blob/main/LAPORAN%20FP%20MIKRO%20KEL%205.pdf) report here.
